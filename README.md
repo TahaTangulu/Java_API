@@ -3,7 +3,7 @@
 
 **Java API Kullanımı**
 
-_***[Direk kodlara ulaşmak için tıklayabilirsiniz](src/api_baglanti.java)***_
+_**[Direk kodlara ulaşmak için tıklayabilirsiniz](src/api_baglanti.java)**_
 ```java
 URL url = new URL("API_URL");
 ```
