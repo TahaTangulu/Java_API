@@ -5,5 +5,5 @@
 ```java
 URL url = new URL("API_URL");
 ```
-Bu kısıma API yazılarak çıktı alabilirsiniz.
+Bu kısıma API adresini yazarak kullabilirsiniz.
 
