@@ -1,5 +1,5 @@
-# Java_API_Project
-## Bilgisyar Sistemleri Lab.
+# Java_API
+## API 
 
 **Java API Kullanımı**
 
